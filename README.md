@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on my course
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about Soft Skills
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about soft skills
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/rutumbhara-kale-622651207)  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am very FUNNY!!
